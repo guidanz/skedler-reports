@@ -1,6 +1,6 @@
-# v5.13.2 (2022-07-29)
+# v5.13.3 (2022-07-29)
 
-### Features ----
+### Features 
 	* Redesigned the template page
 
 ### Bug fixes ----
