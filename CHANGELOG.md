@@ -1,7 +1,7 @@
 # v5.13.0 (2022-07-29)
 
 ### Features
-	* Redesigned the template page
+	* Redesigned the template page 
 
 ### Bug fixes
 	* Fixed security issues in listing datasources
