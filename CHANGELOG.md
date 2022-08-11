@@ -1,9 +1,9 @@
-# v5.13.3 (2022-07-29)
+# v5.13.0 (2022-07-29)
 
-### Features 
+### Features
 	* Redesigned the template page
 
-### Bug fixes ----
+### Bug fixes
 	* Fixed security issues in listing datasources
 	* Fixed the issue in connecting ELK which has no spaces
 	* Fixed issues in Postgres excel report generation
