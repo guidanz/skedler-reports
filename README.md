@@ -35,5 +35,8 @@ Unsure if Skedler is for you? Try Skedler without installation in [Skedler Sandb
 
 ## Sample Report Page
 
-![page-1](https://user-images.githubusercontent.com/90247088/187382869-e0dc7428-4319-41c5-9b17-9cb400a50fcb.png)
+This is a dashboard layout report with company logo. Try smart layout reports in [Skedler Sandbox](https://www.skedler.com/?skedler-sandbox).
+
+![page-2](https://user-images.githubusercontent.com/90247088/187407780-14488fe1-23aa-4749-87aa-607791207df0.png)
+
 
