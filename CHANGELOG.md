@@ -1,3 +1,26 @@
+# v5.14.0 (2022-08-30)
+
+### Features
+	* Implemented no authentication for Grafana's datasources
+	* Provided option to split the dashboard page automatically if it exceeds more than 200 inches
+	* Added option for bulk schedule and share reports to users
+	* Added latest version support for ELK
+	* Added latest version support for Grafana
+
+### Bug fixes
+	* Disabling sending emails from Skelder for the on-premise application
+	* Fixed issues in uploading CMYK type of JPG file
+	* Fixed issue while connecting ELK in the report for the first time
+	* Fixed issue in excel report extension name while downloading the report through download icon 
+	* Fixed issue in applying burst filter in tabular designer
+	* Fixed issue in migrating data table and saved search reports
+
+### Minor changes
+	* Added search option to template module
+	* Added option to replace an image with a newly uploaded image in the report designer
+	* Designer Enhancement - Background color for Texts
+	* Designer enhancement - Formatting option for the Date Time field
+
 # v5.13.0 (2022-07-29)
 
 ### Features
