@@ -10,6 +10,8 @@ Create, schedule, and distribute PDF, PNG Inline, HTML, Excel, or CSV reports - 
 4. **Report Scheduler** – Set custom schedules for each report, including holiday schedules.
 5. **Flexible Distribution** – Share your reports via Outlook, Gmail, SMTP server, or Slack.
 
+![page-1](https://user-images.githubusercontent.com/90247088/187382869-e0dc7428-4319-41c5-9b17-9cb400a50fcb.png)
+
 Get a Skedler license depending on your monthly reporting requirements and save 20+ hours each month!
 
 ## Get started
