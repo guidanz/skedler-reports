@@ -2,13 +2,22 @@
 
 The only ‘no-code’ report automation solution you need for Kibana and Grafana reports.
 
-Create, schedule, and distribute PDF, PNG Inline, HTML, Excel, or CSV reports - without a single line of code. Deliver branded reports to your stakeholders with Skedler:
+Create, schedule, and distribute PDF, PNG Inline, HTML, Excel, or CSV reports - without a single line of code. Deliver branded reports to your stakeholders with [Skedler](https://www.skedler.com/):             
 
-1. **Easy Setup** – Connect your Kibana or Grafana data source with Skedler in a minute.
-2. **Built-In Report** Designer – Design professional reports with the company logo and style guide.
-3. **Report Templates** – Create your own branded templates or use Skedler’s, available in light and dark themes.
-4. **Report Scheduler** – Set custom schedules for each report, including holiday schedules.
-5. **Flexible Distribution** – Share your reports via Outlook, Gmail, SMTP server, or Slack.
+1. **Easy Setup**  
+Connect your Kibana or Grafana data source with Skedler in a minute.
+
+2. **Built-In Report Designer**   
+Design professional reports with the company logo and style guide.
+
+3. **Report Templates**  
+Create your own branded templates or use Skedler’s, available in light and dark themes.
+
+4. **Report Scheduler**  
+Set custom schedules for each report, including holiday schedules.
+
+5. **Flexible Distribution**  
+Share your reports via Outlook, Gmail, SMTP server, or Slack.
 
 Get a Skedler license depending on your monthly reporting requirements and save 20+ hours each month!
 
