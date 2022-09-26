@@ -1,3 +1,8 @@
+# v5.14.2 (2022-09-26)
+
+### Bug fixes
+	* Fixed the issue in generating landscape PDF report by using ELK datasource
+
 # v5.14.1 (2022-09-06)
 
 ### Bug fixes
