@@ -1,16 +1,29 @@
-# v5.14.2 (2022-09-26)
+# v5.15.0 (2022-09-30)
+
+### Features
+	* Added header and timewindow for excel and csv reports
+	* Added option for adding tags to organise the reports
+	* Added Grid Configuration in templates
+	* Added Grafana latest version support
+	* Added ELK latest version support
+	* Added support for Grafana macros and template variable querying for Mysql
+	* Added support to share the templates
+	* Added feature to support for provisioning the Datasources, Orgs, Notification Channels
 
 ### Bug fixes
-	* Fixed the issue in generating landscape PDF report by using ELK datasource
-
-# v5.14.1 (2022-09-06)
-
-### Bug fixes
+	* Handled error case for excel report generation when chart's query has created using Grafana code editor
+	* Fixed showing no data issue when applying burst filter in report designer
 	* Handled error cases on the Kibana lens chart while generating a report
 	* Fixed issues in tabular generation
+	* Fixed issue in report generation when already added charts are deleted from Dashboard
+	* Fixed line break issue in $TimeWindow parameter while generating the report
+	* Fixed the issue in generating landscape PDF report by using ELK datasource
 
 ### Minor changes
-	* Added header and timewindow for excel and csv reports
+	* Retained all template elements except charts on switching between dashboards
+	* Applied theme only for chart element on changing theme of the report
+	* Improved UI experience in changing page settings for smart layout
+	* Fixed report edit option finding UI issue
 
 # v5.14.0 (2022-08-30)
 
