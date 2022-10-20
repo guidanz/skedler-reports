@@ -1,3 +1,15 @@
+# v5.15.1 (2022-10-20)
+
+### Features
+	* Added support for bucket filter query in tabular report generation
+	* Added support for influx 2+ with flux query in the tabular report generation
+
+### Bug fixes
+	* Fixed the reporting name issue in the history while generating the report with burst queries
+
+### Minor changes
+	* Added guide to say the default username and password  in the sign-in page
+
 # v5.15.0 (2022-09-30)
 
 ### Features
