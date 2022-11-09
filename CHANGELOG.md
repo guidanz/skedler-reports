@@ -1,10 +1,16 @@
+# v6.0.1 (2022-11-09)
+
+### Features
+	* Added support for Open Search 1.x and 2.3.x
+
+### Bug fixes
+	* Fixed issue in rendering the datatable chart in kibana 6.8
+
 # v6.0.0 (2022-10-31)
 
 ### Features
-	* Node.js version upgraded into v16.17.1 to fix security vulnerabilities
 	* Added support for bucket filter query in tabular report generation
-	* Added support for latest version of Grafana 9.2.1
-	* Added support for influx 2+ with flux query in the tabular report generation
+	* Added support for latest version of grafana 9.2.1
 
 ### Bug fixes
 	* Fixed the reporting name issue in the history while generating the report with burst queries
