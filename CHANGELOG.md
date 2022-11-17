@@ -1,3 +1,9 @@
+# v6.0.2 (2022-11-17)
+
+### Bug fixes
+	* Fixed issues in applying quick time filter
+	* Fixed issues in generating reports with heavy dashboards in the Security onion
+
 # v6.0.1 (2022-11-09)
 
 ### Features
