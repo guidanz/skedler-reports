@@ -1,3 +1,10 @@
+# v6.0.3 (2022-11-25)
+
+### Bug fixes
+	* Fixed the greeting timeout issue in the notification channels
+	* Fixed issue in validating Kibana credentials
+	* Fixed the Skedler server crashing issue while fetching saved search
+
 # v6.0.2 (2022-11-17)
 
 ### Bug fixes
