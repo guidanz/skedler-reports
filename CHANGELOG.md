@@ -1,29 +1,30 @@
-# v6.0.3 (2022-11-25)
-
-### Bug fixes
-	* Fixed the greeting timeout issue in the notification channels
-	* Fixed issue in validating Kibana credentials
-	* Fixed the Skedler server crashing issue while fetching saved search
-
-# v6.0.2 (2022-11-17)
-
-### Bug fixes
-	* Fixed issues in applying quick time filter
-	* Fixed issues in generating reports with heavy dashboards in the Security onion
-
-# v6.0.1 (2022-11-09)
+# v6.1.0 (2022-11-30)
 
 ### Features
-	* Added support for Open Search 1.x and 2.3.x
+	* Added latest version support for Security Onion 2.3.181
+	* Added support to latest version elasticsearch 8.5.x and kibana 8.5.x
+	* Improved datasource connection verification
 
 ### Bug fixes
 	* Fixed issue in rendering the datatable chart in kibana 6.8
+	* Fixed issue with propagating template changes to reports
+	* Fixed issues in applying quick time filter
+	* Fixed issue in generating report while the report name contains special characters(:,?,#,\,/,%)
+	* Fixed the Skedler server crashing issue while fetching saved search
+	* Fixed issue with old table chart
+
+### Minor changes
+	* Sandbox - Survey time increased and removed survey for users who already gave feedback
+	* Added option to select the tabular report export format (tar/zip)
+	* Added validations on saving notification channels
 
 # v6.0.0 (2022-10-31)
 
 ### Features
+	* Node.js version upgraded into v16.17.1 to fix security vulnerabilities
 	* Added support for bucket filter query in tabular report generation
-	* Added support for latest version of grafana 9.2.1
+	* Added support for latest version of Grafana 9.2.1
+	* Added support for influx 2+ with flux query in the tabular report generation
 
 ### Bug fixes
 	* Fixed the reporting name issue in the history while generating the report with burst queries
