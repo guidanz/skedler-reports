@@ -1,3 +1,13 @@
+# v6.1.1 (2022-12-21)
+
+### Features
+	* Added support to handle grafana transformations
+	* Added support to latest version of grafana(9.3.x)
+
+### Bug fixes
+	* Fixed report generation issue on kibana (6.5.x to 7.4.x)
+	* Fixed issue with excel report generation if the visualizations have same name
+
 # v6.1.0 (2022-11-30)
 
 ### Features
