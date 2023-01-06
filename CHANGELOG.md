@@ -1,3 +1,9 @@
+# v6.1.2 (2023-01-06)
+
+### Bug fixes
+	* Fixed issue in data table chart rendering in Kibana 7.4
+	* Fixed Kibana Query Url parse error
+
 # v6.1.1 (2022-12-21)
 
 ### Features
