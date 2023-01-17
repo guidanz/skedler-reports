@@ -1,18 +1,14 @@
-# v6.1.2 (2023-01-06)
-
-### Bug fixes
-	* Fixed issue in data table chart rendering in Kibana 7.4
-	* Fixed Kibana Query Url parse error
-
-# v6.1.1 (2022-12-21)
+# v6.1.3 (2023-01-17)
 
 ### Features
-	* Added support to handle grafana transformations
-	* Added support to latest version of grafana(9.3.x)
+	* Added Support for Custom Parameters in Report Name
 
 ### Bug fixes
-	* Fixed report generation issue on kibana (6.5.x to 7.4.x)
-	* Fixed issue with excel report generation if the visualizations have same name
+	* Improved searching reports capabilities by text and tags
+	* Improved applying template variables for Grafana from Skedler UI
+	* Fixed License Activation reached its limit issue
+	* Fixed issues with ldap role mapping.
+	* Fixed issues with data sources and throw relevant error messages
 
 # v6.1.0 (2022-11-30)
 
@@ -37,10 +33,8 @@
 # v6.0.0 (2022-10-31)
 
 ### Features
-	* Node.js version upgraded into v16.17.1 to fix security vulnerabilities
 	* Added support for bucket filter query in tabular report generation
-	* Added support for latest version of Grafana 9.2.1
-	* Added support for influx 2+ with flux query in the tabular report generation
+	* Added support for latest version of grafana 9.2.1
 
 ### Bug fixes
 	* Fixed the reporting name issue in the history while generating the report with burst queries
