@@ -1,3 +1,9 @@
+# v6.1.4 (2023-01-20)
+
+### Bug fixes
+	* Fixed the issue in role mapping with LDAP
+	* Fixed issue in UI validation while adding users without any organisation.
+
 # v6.1.3 (2023-01-17)
 
 ### Features
