@@ -1,4 +1,21 @@
+# v6.2.0 (2023-01-31)
+
+### Features
+	* Added support for German Localisation
+
+### Bug fixes
+	* Handled report generation failure issue while a report has no charts
+	* Fixed UI issue while changing the export format option for reports
+	* Added message when datasource has an unsupported version
+
+### Minor changes
+	* Added functionality to save the number of rows in the Guidanz table
+	* Fixed issues in downloading the Sample filter parameter file
+
 # v6.1.4 (2023-01-20)
+
+### Features
+	* Added support for Kibana v8.6.x
 
 ### Bug fixes
 	* Fixed the issue in role mapping with LDAP
