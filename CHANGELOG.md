@@ -1,3 +1,11 @@
+# v6.2.1 (2023-02-13)
+
+### Bug fixes
+	* Fixed issue in postgres query variable in Grafana
+	* Added support for Grafana Micheaeldmoore-Scatter panel
+	* Added support for Annolist panel
+	* Fixed issues in report generation with the other space's dashboard in Kibana
+
 # v6.2.0 (2023-01-31)
 
 ### Features
@@ -6,10 +14,11 @@
 ### Bug fixes
 	* Handled report generation failure issue while a report has no charts
 	* Fixed UI issue while changing the export format option for reports
-	* Added message when datasource has an unsupported version
+	* Added message when datasource has unsupported version
+	* Fixed report scheduling issue in migration.
 
 ### Minor changes
-	* Added functionality to save the number of rows in the Guidanz table
+	* Added functionality to save the number of rows in Guidanz table
 	* Fixed issues in downloading the Sample filter parameter file
 
 # v6.1.4 (2023-01-20)
