@@ -1,10 +1,32 @@
-# v6.2.1 (2023-02-13)
+# v6.3.0 (2023-02-28)
+
+### Features
+	* Added support for single sign on for Skedler
 
 ### Bug fixes
+	* Enhanced UI input fields
+	* Fixed issues in editing the report configurations when the configured dashboard is not available in a datasource
+	* Fixed an issue with searching charts in the tabular designer
 	* Fixed issue in postgres query variable in Grafana
 	* Added support for Grafana Micheaeldmoore-Scatter panel
 	* Added support for Annolist panel
+	* Fixed an issue with showing chart's full title name in tabular designer
+	* Fixed an issue in closing the pop-up window
+	* Fixed issues in datatable report generation while metrics fields are disabled
+	* Fixed the issue of Grafana(with SSL) being unable to connect to a MySQL server configured without SSL.
+	* Enhance the report distribution when the report is generated with burst filters
+	* Fixed issues with grafana authentication when trying to access with editor/viewer privilege
+	* Fixed an issue in showing the export icon issue while unselecting it
+	* Fixed an issue in showing user status of Skedler users
+	* Fixed an issue in loader while getting visualisation of Saved Search and Data Table
+	* Fixed issue with ldap group retrieval
+	* Fixed the empty chart rendering issue in Grafana
+	* Fixed Coredump file creation issue
 	* Fixed issues in report generation with the other space's dashboard in Kibana
+	* Fixed issue in saving notification channel without password
+
+### Minor changes
+	* Enhanced error handling while adding a user
 
 # v6.2.0 (2023-01-31)
 
@@ -16,6 +38,7 @@
 	* Fixed UI issue while changing the export format option for reports
 	* Added message when datasource has unsupported version
 	* Fixed report scheduling issue in migration.
+	* Fixed issue in differentiating user by authentication type
 
 ### Minor changes
 	* Added functionality to save the number of rows in Guidanz table
