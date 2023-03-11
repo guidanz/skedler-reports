@@ -1,3 +1,14 @@
+# v6.3.1 (2023-03-10)
+
+### Features
+	* Added Support for Grafana v9.4.3
+	* Support for compress the multiple reports as zip
+	* Added a new feature that allow user to add signature when distributing reports
+
+### Bug fixes
+	* Fixed an issue in adding TimeWindow parameter as part of email subject
+	* Unable to Connect ELK datasource with xpack configuration via provisioning
+
 # v6.3.0 (2023-02-28)
 
 ### Features
