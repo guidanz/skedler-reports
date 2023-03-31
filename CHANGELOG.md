@@ -1,13 +1,20 @@
-# v6.3.1 (2023-03-10)
+# v6.4.0 (2023-03-31)
 
 ### Features
-	* Added Support for Grafana v9.4.3
-	* Support for compress the multiple reports as zip
-	* Added a new feature that allow user to add signature when distributing reports
+	* Added a new feature that allows users to add their signature when distributing reports
+	* Support for compressing multiple reports as zip
+	* Support for Grafana v9.4.x
+	* Disable License persistence for trial license key
 
 ### Bug fixes
-	* Fixed an issue in adding TimeWindow parameter as part of email subject
-	* Unable to Connect ELK datasource with xpack configuration via provisioning
+	* Fixed an issue in adding the TimeWindow parameter as part of the email subject
+	* Unable to Connect ELK datasource with Xpack configuration via provisioning
+	* Fixed issues in bulk report generation
+	* Rendering panels that are dependent on the dashboard's other chart in the smart layout
+	* Fixed issues in rendering Grafana charts when the row of panels is collapsed
+	* Fixed an issue with report generation when the burst filter has a folder name.
+	* Fixed issues in provisioning Notification Channels
+	* Fixed issue on changing layout and theme on the designer page
 
 # v6.3.0 (2023-02-28)
 
