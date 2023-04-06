@@ -1,3 +1,10 @@
+# v6.4.1 (2023-04-06)
+
+### Bug fixes
+	* Fixed an issue in showing the table header for Excel/CSV
+	* Fixed issues in rendering repeat panels in Grafana
+	* Unable to Sign-in using SSO with PingFederate - Fixed
+
 # v6.4.0 (2023-03-31)
 
 ### Features
