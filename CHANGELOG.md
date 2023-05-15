@@ -1,3 +1,10 @@
+# v6.5.1 (2023-05-15)
+
+### Features
+	* Added support for Grafana v9.5.x
+	* Added support for ELK v8.7.x
+	* Added support for license persistence for air-gapped environment
+
 # v6.5.0 (2023-04-28)
 
 ### Bug fixes
