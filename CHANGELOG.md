@@ -1,9 +1,15 @@
-# v6.5.1 (2023-05-15)
+# v6.6.0 (2023-05-31)
 
 ### Features
 	* Added support for Grafana v9.5.x
 	* Added support for ELK v8.7.x
-	* Added support for license persistence for air-gapped environment
+	* Revamped report sharing feature
+	* Added Support for Grafana XY Chart
+	* License Persistence for Offline/Air-gapped environment
+
+### Minor changes
+	* Added option to disable local login form via configuration
+	* Fixed Panel header hover issue in grafana 9.5+
 
 # v6.5.0 (2023-04-28)
 
