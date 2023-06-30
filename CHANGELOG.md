@@ -1,3 +1,16 @@
+# v6.7.0 (2023-06-30)
+
+### Features
+	* Added Feature for sharing filters
+	* Added support for Grafana v10.0.x
+	* Removed the max version support check of ELK & Grafana during Datasource creation
+	* Added support for ELK v8.8.x
+	* Enhanced the skedler offline experience
+
+### Bug fixes
+	* Unable to generate report with ELK 6.x
+	* Report name contains underscore instead of spaces
+
 # v6.6.0 (2023-05-31)
 
 ### Features
