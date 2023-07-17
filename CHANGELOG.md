@@ -1,3 +1,9 @@
+# v6.7.1 (2023-07-17)
+
+### Bug fixes
+	* Report mail sending failed if Include Admin is enabled in Notification channel - Fixed
+	* Issue with generating Excel/CSV report with saved search using Opensearch 2.2.0
+
 # v6.7.0 (2023-06-30)
 
 ### Features
