@@ -1,8 +1,17 @@
-# v6.7.1 (2023-07-17)
+# v6.8.0 (2023-08-29)
+
+### Features
+	* Support for distributing Skedler Reports through AWS S3 bucket
+	* Added latest version support for ELK
+	* Added latest version support for Grafana
 
 ### Bug fixes
 	* Report mail sending failed if Include Admin is enabled in Notification channel - Fixed
-	* Issue with generating Excel/CSV report with saved search using Opensearch 2.2.0
+	* Unable to add user when the org with the same user is already deleted
+
+### Minor changes
+	* Improved the capability to incorporate images elements into the page header or footer during the process of dragging the element to the header/footer section.
+	* Added capability to render the transparent chart in Grafana
 
 # v6.7.0 (2023-06-30)
 
