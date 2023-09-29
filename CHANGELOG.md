@@ -1,3 +1,16 @@
+# v6.9.0 (2023-09-29)
+
+### Features
+	* Added support to latest version of Grafana
+	* Added support for the latest version of Kibana
+
+### Bug fixes
+	* Fixed the issue with edit/download shared reports for user with multiple organization
+	* Fixed issue with disabling time from $DateTime parameter
+	* Fixed the issue with chart header alignment after changing the page margins in page settings
+	* Fixed the issue with rendering panels with newly updated panel loader icon
+	* Fixed the issue with chart alignment while report generation for Grafana
+
 # v6.8.0 (2023-08-29)
 
 ### Features
