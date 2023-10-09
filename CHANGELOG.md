@@ -1,3 +1,10 @@
+# v6.9.1 (2023-10-09)
+
+### Bug fixes
+	* Fixed the issue with aligning the chart header vertically while changing the font size
+	* Fixed the issue with changing the chart header color while changing the theme
+	* Fixed - Kibana report generation issue in ELK 7.11.x
+
 # v6.9.0 (2023-09-29)
 
 ### Features
