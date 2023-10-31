@@ -1,9 +1,15 @@
-# v6.9.1 (2023-10-09)
+# v6.10.0 (2023-10-30)
+
+### Features
+	* Added option to send report to client even if the report has no data
+	* Added support for latest version of Grafana
+	* Added functionality to show version compatibility message while saving the datasource
 
 ### Bug fixes
-	* Fixed the issue with aligning the chart header vertically while changing the font size
-	* Fixed the issue with changing the chart header color while changing the theme
-	* Fixed - Kibana report generation issue in ELK 7.11.x
+	* Fixed issue with changing font size while report generation
+	* Fixed issue with tabular report generation for Grafana with Mysql datasource
+	* Fixed issue with regeneration of shared reports while clicking download option
+	* Fixed issue with generating Kibana report with large amount of charts
 
 # v6.9.0 (2023-09-29)
 
