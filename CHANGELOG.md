@@ -1,3 +1,12 @@
+# v6.10.1 (2023-11-07)
+
+### Features
+	* Auto Backup Skedler
+
+### Bug fixes
+	* Error in report generation if no data - Fixed
+	* Fixed issue with rendering transparent chart for Grafana v9.5
+
 # v6.10.0 (2023-10-30)
 
 ### Features
