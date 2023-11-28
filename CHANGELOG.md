@@ -1,3 +1,11 @@
+# v6.10.3 (2023-11-27)
+
+### Features
+	* Added support for the latest version of ELK
+
+### Bug fixes
+	* Fixed issue with loading all charts when only one chart is added in chart area for tabular report
+
 # v6.10.1 (2023-11-07)
 
 ### Features
