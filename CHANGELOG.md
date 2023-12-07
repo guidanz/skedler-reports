@@ -1,3 +1,12 @@
+# v6.10.4 (2023-12-07)
+
+### Features
+	* Added support for latest version of Grafana
+
+### Bug fixes
+	* Fixed issue with navigating while choosing admin settings
+	* Fixed issue with rendering all charts even if dragging one chart to the report
+
 # v6.10.3 (2023-11-27)
 
 ### Features
