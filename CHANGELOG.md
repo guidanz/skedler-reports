@@ -1,28 +1,19 @@
-# v6.10.4 (2023-12-07)
-
-### Features
-	* Added support for latest version of Grafana
-
-### Bug fixes
-	* Fixed issue with navigating while choosing admin settings
-	* Fixed issue with rendering all charts even if dragging one chart to the report
-
-# v6.10.3 (2023-11-27)
-
-### Features
-	* Added support for the latest version of ELK
-
-### Bug fixes
-	* Fixed issue with loading all charts when only one chart is added in chart area for tabular report
-
-# v6.10.1 (2023-11-07)
+# v6.11.0 (2023-11-07)
 
 ### Features
 	* Auto Backup Skedler
+	* Added support for the latest version of ELK
+	* Added support for latest version of Grafana
+	* Disabled the option for non-admin users to change dashboards.
 
 ### Bug fixes
 	* Error in report generation if no data - Fixed
 	* Fixed issue with rendering transparent chart for Grafana v9.5
+	* Fixed issue with loading all charts when only one chart is added in chart area for tabular report
+	* Fixed issue with navigating while choosing admin settings
+	* Fixed issue with rendering all charts even if dragging one chart to the report
+	* Fixed issue with adding user to new organisation who has super admin access
+	* Fixed issue with generating tabular report with influx db for new Grafana version
 
 # v6.10.0 (2023-10-30)
 
