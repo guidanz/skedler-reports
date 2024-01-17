@@ -1,3 +1,13 @@
+# v6.11.1 (2024-01-17)
+
+### Features
+	* Added support to choose date and time formatting for distribution channels
+	* Added support for rendering Kibana map panel
+
+### Bug fixes
+	* Fixed issue in rendering chart header height dynamically based on font size and line spacing
+	* Fixed issue in rendering report after changing the theme of custom template
+
 # v6.11.0 (2023-11-07)
 
 ### Features
