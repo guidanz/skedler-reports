@@ -1,12 +1,17 @@
-# v6.11.1 (2024-01-17)
+# v6.12.0 (2024-01-30)
 
 ### Features
 	* Added support to choose date and time formatting for distribution channels
 	* Added support for rendering Kibana map panel
+	* Added support for latest version of Grafana
+	* Added support for latest version of ELK
+	* Added support for Dynamic Text panel for Grafana
 
 ### Bug fixes
 	* Fixed issue in rendering chart header height dynamically based on font size and line spacing
 	* Fixed issue in rendering report after changing the theme of custom template
+	* Fixed issue with rendering chart in grafana if links are enabled in dashboard
+	* Fixed issue with generating excel report if panel has empty title
 
 # v6.11.0 (2023-11-07)
 
