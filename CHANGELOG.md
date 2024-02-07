@@ -1,3 +1,8 @@
+# v6.12.1 (2024-02-07)
+
+### Bug fixes
+	* Fixed issue with rendering library panels for Grafana
+
 # v6.12.0 (2024-01-30)
 
 ### Features
