@@ -1,3 +1,13 @@
+# v6.12.2 (2024-02-15)
+
+### Features
+	* Added support for Grafana latest version
+	* Added support for Apache Echarts in Grafana
+
+### Bug fixes
+	* Fixed the issue error reporting for searching data in ELK from v8.0 and above.
+	* Fixed the issue with rendering transparent panel in Grafana for v10.2 and above
+
 # v6.12.1 (2024-02-07)
 
 ### Bug fixes
