@@ -1,17 +1,16 @@
-# v6.12.2 (2024-02-15)
+# v6.13.0 (2024-03-28)
 
 ### Features
 	* Added support for Grafana latest version
 	* Added support for Apache Echarts in Grafana
-
-### Bug fixes
-	* Fixed the issue error reporting for searching data in ELK from v8.0 and above.
-	* Fixed the issue with rendering transparent panel in Grafana for v10.2 and above
-
-# v6.12.1 (2024-02-07)
+	* Added support for enhanced table in Kibana
+	* Added support for the latest version of Grafana
 
 ### Bug fixes
 	* Fixed issue with rendering library panels for Grafana
+	* Fixed the issue error reporting for searching data in ELK from v8.0 and above.
+	* Fixed the issue with rendering transparent panel in Grafana for v10.2 and above
+	* Fixed the issue with generating tabular report with template variable for Flux query
 
 # v6.12.0 (2024-01-30)
 
