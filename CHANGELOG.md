@@ -1,3 +1,12 @@
+# v6.13.1 (2024-04-16)
+
+### Features
+	* Added support for latest version of ELK
+
+### Bug fixes
+	* Fixed the issue with generating tabular report with correct timezone
+	* Fixed the issue with duplicating shared reports with editor role
+
 # v6.13.0 (2024-03-28)
 
 ### Features
