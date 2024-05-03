@@ -1,3 +1,8 @@
+# v6.13.2 (2024-05-03)
+
+### Features
+	* Added support for Vertica database in Grafana
+
 # v6.13.1 (2024-04-16)
 
 ### Features
