@@ -1,3 +1,8 @@
+# v6.13.3 (2024-05-16)
+
+### Features
+	* Added support for adding from, cc and bcc in burst filter per query
+
 # v6.13.2 (2024-05-03)
 
 ### Features
