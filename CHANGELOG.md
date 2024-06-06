@@ -1,3 +1,12 @@
+# v6.13.4 (2024-06-06)
+
+### Features
+	* Added support for latest version of Grafana
+
+### Bug fixes
+	* Fixed issue with rendering transparent panel in Grafana
+	* Fixed issue with generating report with German language content
+
 # v6.13.3 (2024-05-16)
 
 ### Features
