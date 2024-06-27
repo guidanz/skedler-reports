@@ -1,3 +1,8 @@
+# v6.13.6 (2024-06-27)
+
+### Features
+	* Added support for A3 page in smart layout
+
 # v6.13.4 (2024-06-06)
 
 ### Features
