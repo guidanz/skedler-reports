@@ -1,35 +1,20 @@
-# v6.13.6 (2024-06-27)
-
-### Features
-	* Added support for A3 page in smart layout
-
-# v6.13.4 (2024-06-06)
-
-### Features
-	* Added support for latest version of Grafana
-
-### Bug fixes
-	* Fixed issue with rendering transparent panel in Grafana
-	* Fixed issue with generating report with German language content
-
-# v6.13.3 (2024-05-16)
-
-### Features
-	* Added support for adding from, cc and bcc in burst filter per query
-
-# v6.13.2 (2024-05-03)
-
-### Features
-	* Added support for Vertica database in Grafana
-
-# v6.13.1 (2024-04-16)
+# v6.14.0 (2024-07-01)
 
 ### Features
 	* Added support for latest version of ELK
+	* Added support for Vertica database in Grafana
+	* Added support for adding from, cc and bcc in burst filter per query
+	* Added support for latest version of Grafana
+	* Added support for A3 page in smart layout
+	* Added option to increase/improve report quality
+	* Added support for latest version of Grafana
 
 ### Bug fixes
 	* Fixed the issue with generating tabular report with correct timezone
 	* Fixed the issue with duplicating shared reports with editor role
+	* Fixed issue with rendering transparent panel in Grafana
+	* Fixed issue with generating report with German language content
+	* Fixed issue with rendering enhanced data table in Kibana 
 
 # v6.13.0 (2024-03-28)
 
