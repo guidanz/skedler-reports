@@ -1,3 +1,12 @@
+# v6.14.1 (2024-07-26)
+
+### Features
+	* Added support for latest version of ELK
+
+### Bug fixes
+	* Fixed PDF rendering timeout issue in Grafana
+	* Issue with adding time format in report filename
+
 # v6.14.0 (2024-07-01)
 
 ### Features
