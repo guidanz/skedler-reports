@@ -1,3 +1,13 @@
+# v6.14.2 (2024-10-10)
+
+### Features
+	* Support for ELK version 8.15.x
+	* Retry report generation if report fails
+	* Added option to generate Grafana tabular data with instant query in Grafana for Prometheus
+
+### Bug fixes
+	* Fixed issue with transformation for join fields in Grafana table
+
 # v6.14.1 (2024-07-26)
 
 ### Features
