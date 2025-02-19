@@ -1,3 +1,28 @@
+# v6.14.8 (2025-02-19)
+
+### Bug fixes
+	* Fixed - Minor vulnerability issues
+
+# v6.14.6 (2025-01-13)
+
+### Bug fixes
+	* Fixed issue with uploading SVG with XSS script
+	* Fixed issue with report sharing option for editor role
+
+# v6.14.4 (2024-12-13)
+
+### Features
+	* Search shared reports by tag 
+	* Support For Grafana 11.4.x
+
+### Bug fixes
+	* Original report changes if user made changes in the duplicated shared report
+
+# v6.14.3 (2024-11-10)
+
+### Bug fixes
+	* Fixed - Unable to generate reports
+
 # v6.14.2 (2024-10-10)
 
 ### Features
@@ -12,6 +37,8 @@
 
 ### Features
 	* Added support for latest version of ELK
+	* Support for ELK version 8.15.x
+	* Retry report generation if report fails
 
 ### Bug fixes
 	* Fixed PDF rendering timeout issue in Grafana
