@@ -1,3 +1,8 @@
+# v6.14.9 (2025-03-07)
+
+### Bug fixes
+	* Fixed the issue with report preview
+
 # v6.14.8 (2025-02-19)
 
 ### Bug fixes
