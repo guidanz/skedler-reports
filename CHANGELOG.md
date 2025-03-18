@@ -1,3 +1,11 @@
+# v6.14.10 (2025-03-17)
+
+### Features
+	* Added support for latest version of Grafana(11.5.2)
+
+### Bug fixes
+	* Fixed - Error in create and preview templates
+
 # v6.14.9 (2025-03-07)
 
 ### Bug fixes
